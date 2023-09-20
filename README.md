@@ -1,4 +1,4 @@
-# NLP Tutorial Repository
+# NLP Tutorial 
 
  This repository offers a comprehensive NLP tutorial, covering fundamental concepts from Bag of Words (BoW) to transformer models.
  
